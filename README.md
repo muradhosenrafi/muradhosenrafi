@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m RAFI –  full-stack developer
 ### 💻 About Me
-I’m a passionate MARN Stack Web Developer, building scalable and responsive web applications. Always learning and exploring new technologies.
+I’m a passionate  full-stack developer, building scalable and responsive web applications. Always learning and exploring new technologies.
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
